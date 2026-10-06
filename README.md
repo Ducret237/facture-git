@@ -7,3 +7,5 @@ Compilation : javac -encoding UTF-8 Facture.java
 Exécution : java Facture
 
 Exemple initial : 2 articles à 20 dollars donnent 40 dollars.
+
+3 articles à 20 $ donnent 60 $.
