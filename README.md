@@ -13,3 +13,5 @@ Exemple initial : 2 articles à 20 dollars donnent 40 dollars.
 5 $ de frais fixes de livraison
 
 3 article(s) à 20 $ 
+
+Pour contribuer, consultez CONTRIBUTING.md.
